@@ -1,22 +1,32 @@
 # Jest Project
 
 Este é um projeto de exemplo para demonstrar o uso do Jest para testes unitários em projetos JavaScript.
+<br />
 Tecnologias utilizadas
 
-    JavaScript
+```
+
+    Nextjs
+    Typescript
     Jest
+    
+```
 
  # Instalação
 
 Para instalar as dependências do projeto, execute o seguinte comando na raiz do projeto:
 
+```
 npm install
+```
 
  # Execução dos testes
 
 Para executar os testes do projeto, execute o seguinte comando na raiz do projeto:
 
+```
 npm test
+```
 
 # Estrutura do projeto
 
